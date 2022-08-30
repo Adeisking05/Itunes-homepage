@@ -1,0 +1,178 @@
+
+.fh1{
+   text-align: center;
+   color: aliceblue;
+   font-size: 50px;
+   font-weight: bolder;
+}
+.fh2{
+   text-align: center;
+   color: aliceblue;
+   font-size:40px;
+   font-weight: bold;
+}
+.fp{
+   color: aliceblue;
+   font-size: 30px;
+   text-align: center;
+}
+.ddd{
+   background-color: black;
+   color: wheat;
+}
+.sh2{
+   color: white;
+   text-align: center;
+   font-size: 40px;
+   font-weight: bolder;
+}
+.sh3{
+   color: white;
+   font-size: 30px;
+   text-align: center;
+   font-weight: bold;
+
+}
+.sp2{color: whitesmoke;
+   text-align: center;
+   font-size: 20px;
+   font-weight: bold;
+}
+.div2{
+   background-color: rgba(0, 0, 0, 0.459);
+   text-align: center;
+}
+.rbtn{
+   text-align: center;
+   position: inherit;
+}
+#ss{
+   color: white;
+   font-size: 20px;
+   text-align: center;
+}
+#ip{
+   position: inherit;
+   width: 40%;
+}
+.div3{
+   background-color: white;
+   text-align: center;
+}
+#th3{
+   color: black;
+   font-size: 30px;
+   text-align: center;
+}
+#tp{
+   color: black;
+}
+#simg{
+   width: 40%;
+   position: inherit;
+}
+.div4{
+   background-image: url(bluesky.jfif);
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 500px;
+   margin-top: 30px;
+   
+}
+#fh4{
+   color: white;
+   font-size: 30px;
+   text-align: center;
+   margin-top: 30px;
+   padding-top:60px;
+   padding-bottom: 50px;
+   
+}
+#p4{
+   color: white;
+   text-align: center;
+   margin-top: 25px;
+   padding-top: -120px;
+  
+}
+.div5{
+  margin-top: 70px; 
+  float: inline-end;
+}
+#img5{
+   /* float: left; */
+   width: 40%;
+}
+#he5{
+   float: inline-end;
+   color: black;
+}
+#p5{
+   float: inline-end;
+   color: black;
+}
+#p6{
+   float: inline-end;
+   color: black;
+}
+.rp{
+   font-size: 15px;
+   color: black;
+   font-weight: 500;
+}
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+        
+        body{
+            background-color:#f3f6fd ;
+            font-size: 11.5px;
+            font-weight: bold;
+            color: rgb(189, 196, 203);
+        }
+        
+        .card{
+            padding: 2% 7%;
+            color: #646771;
+            background-color: #16151a;
+        }
+        
+        ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        ul >li{
+            padding: 4px;
+        }
+        
+        ul > li:hover{
+            color:#957bda;
+            cursor: pointer;
+        }
+        
+        hr{
+            border-width: 3px;
+        }
+        
+        .social > i{
+            padding: 1%;
+            font-size: 15px;
+        }
+        
+        .social > i:hover{
+            color:#957bda;
+            cursor:pointer;
+        }
+        
+        .policy > div{
+            padding: 4px;
+        }
+        
+        .heading{
+            font-family: 'Titillium Web', sans-serif;
+            color: white;
+        }
+        
+        .divider{
+            border-top: 2px solid rgba(189, 196, 203, 0.5);;
+        }
